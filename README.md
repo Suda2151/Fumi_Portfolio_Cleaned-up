@@ -25,7 +25,7 @@ I'm interested in how does the "Controlling color" works for people who see pres
 [Iink to the final Project　Part1](/Final_Part1/final_project_TakafumiSudare.md)
 
 [Iink to the final Project　Part2](/Final_Part2/final_project_part2Outline.md)
-/Final_Part2
+
 
 ## Final Project
 The final project can be confirmed at the following link.<br>
