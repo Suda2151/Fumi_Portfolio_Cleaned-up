@@ -7,7 +7,7 @@ SHORTHAND: [final_version](https://carnegiemellon.shorthandstories.com/airline-a
 ## Project 1st Stage<br>
 In the beginning, to make a project the following items are structured.
 
-Part1: [1st Stage of final Project](/final_project_TakafumiSudare.md)<br>
+Part1: [1st Stage of final Project](/Final_Part1/final_project_TakafumiSudare.md)<br>
 
 At Part1, the following information was planned and sketched.<br>
 1. The project outline (Please refer to "Outline")
@@ -21,9 +21,9 @@ At Part1, the following information was planned and sketched.<br>
 At the 2nd Stage, I was focusing on making a high-level sketch that shows the overall project. And I also made storyboards that tell my project in detail. That storyboards must be accommodated with the high-level sketch. Both works should be in sync. And User research also needs to be addressed.<br>
 The following is the link that I was working at Part2.
 
-Part2: [2nd Stage of final Project](/final_project_part2Outline.md)<br>
-Part2: [Iink to the User Research](/User_Research.md)<br>
-Part2: [Iink to the Source Data for making Graph](/dataSourceLink.md)<br>
+Part2: [2nd Stage of final Project](/Final_Part2/final_project_part2Outline.md)<br>
+Part2: [Iink to the User Research](/Final_Part2/User_Research.md)<br>
+Part2: [Iink to the Source Data for making Graph](/Final_Part2/dataSourceLink.md)<br>
 
 At Part2, the following works were addressed.<br>
 1. Sketches and storyboards(1st Steps) (Please refer to "User Research" on "Link to the User Research")
