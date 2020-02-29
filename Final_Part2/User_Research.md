@@ -1,7 +1,7 @@
 ## User Research
 ### Interview Contents and materials
 The following link shows draft visualization that I used for the interview.<br>
-[Iink to the draft graphs](/interview_draftGraph.md)
+[Iink to the draft graphs](/Final_Part2/interview_draftGraph.md)
 
 
 ### a. The target audience I hope to reach with my story;
