@@ -4,11 +4,11 @@
 Please refer to the following link.<br>
 The link includes a wireframe and a storyboard which I used at the interview as draft version.<br> 
 
-[Iink to the User Research](/User_Research.md)<br>
+[Iink to the User Research](/Final_Part2/User_Research.md)<br>
 
 At the interview, I used hand-drawn graphs in the below link.
 Just in case, I also attached the file below.<br>
-[Iink to sketches](/interview_draftGraph.md)<br>
+[Iink to sketches](/Final_Part2/interview_draftGraph.md)<br>
 
 ![Alt text](/Data/Official_Rank.png)<br>
 ![Alt text](/Data/CS_ranking.png)<br>
