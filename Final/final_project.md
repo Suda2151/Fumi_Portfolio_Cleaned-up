@@ -58,5 +58,5 @@ The target audience is classmate and persons who are planning to travel using ai
 [Link to Data Source](/Data/)<br>
    
 ### Source Info Link including Tableau rendering<br>
-[Link to source info](/dataSourceLink.md)<br>
+[Link to source info](/Final_Part2/dataSourceLink.md)<br>
    
