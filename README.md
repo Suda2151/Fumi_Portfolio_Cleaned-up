@@ -1,4 +1,5 @@
-# updated-portfolio 
+# updated-portfolio
+This is the cleaned-up version.
 
 # Fumi Sudare-portfolio
 This is my public portfolio for the Telling Stories with Data class at CMU!
@@ -13,7 +14,7 @@ hand down what I learned here to my colleagues.
 
 # What I hope to learn
 I hope to learn how to use data visualization skills to show information appropriately. 
-I'm interested in how does the "Controlling color" work for people who see presentation materials.
+I'm interested in how does the "Controlling color" works for people who see presentation materials.
 
 # Portfolio
 
