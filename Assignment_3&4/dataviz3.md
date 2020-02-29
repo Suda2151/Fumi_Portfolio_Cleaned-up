@@ -10,7 +10,7 @@ There is no visualization, so it is hard to understand what this matrix info wan
 By picking up some of the information from the matrix sheet, I will make data visualization with storied.<br>
 Current sheet is below<br><br>
 
-![Alt text](/Sheet_info_Assignment3_4.png)<br><br>
+![Alt text](/Assignment_3&4/Sheet_info_Assignment3_4.png)<br><br>
 
 
 ## Step2 : Critique the data visualization<br><br>
@@ -43,7 +43,7 @@ The wireframe sketch is below.<br>
 I made 3 patterns to visualize the information.<br>
 My point is showing the growth of travelers from growth and number perspective.<br>
 
-![Alt text](/Wireframe.jpeg)<br><br>
+![Alt text](/Assignment_3&4/Wireframe.jpeg)<br><br>
 
 ## Step4 : Test the solution<br><br>
 
