@@ -18,16 +18,16 @@ I'm interested in how does the "Controlling color" works for people who see pres
 
 # Portfolio
 
-[Link to OECD graph](/dataviz2.md)
+[Link to OECD graph at Assignment2](/Assignment2/dataviz2.md)
 
-[Link to Assignment 3&4](/dataviz3.md)
+[Link to Assignment 3&4](/Assignment_3&4/dataviz3.md)
 
-[Iink to the final Project　Part1](/final_project_TakafumiSudare.md)
+[Iink to the final Project　Part1](/Final_Part1/final_project_TakafumiSudare.md)
 
-[Iink to the final Project　Part2](/final_project_part2Outline.md)
-
+[Iink to the final Project　Part2](/Final_Part2/final_project_part2Outline.md)
+/Final_Part2
 
 ## Final Project
 The final project can be confirmed at the following link.<br>
 
-[Link to final project](/final_project.md)
+[Link to final project](/Final/final_project.md)
